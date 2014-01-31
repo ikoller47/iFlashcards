@@ -1,0 +1,963 @@
+TiFlashcards
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/Info.plist /Users/ikoller47/Downloads/iFlashcards/iFlashcards/iFlashcards-Info.plist
+cProcessPCH /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch.pch iFlashcards/iFlashcards-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/main.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AppDelegate.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/MasterViewController.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/DetailViewController.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/BButton.o /Users/ikoller47/Downloads/iFlashcards/BButton/BButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NSString+FontAwesome.o /Users/ikoller47/Downloads/iFlashcards/BButton/NSString+FontAwesome.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/UIColor+BButton.o /Users/ikoller47/Downloads/iFlashcards/BButton/UIColor+BButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/SettingsViewController.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/SettingsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NewDeckViewController.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/NewDeckViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AddCardViewController.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/AddCardViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/StudySessionViewController.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/StudySessionViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Deck.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/Deck.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Card.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/Card.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/iFlashcards normal i386
+cGenerateDSYMFile /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app.dSYM /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/iFlashcards
+cCpResource iFlashcards/Default.png Build/Products/Debug-iphonesimulator/iFlashcards.app/Default.png
+cCopyStringsFile /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/en.lproj/InfoPlist.strings iFlashcards/en.lproj/InfoPlist.strings
+cCpResource iFlashcards/Default@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/Default@2x.png
+cCpResource iFlashcards/Default-568h@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/Default-568h@2x.png
+cCpResource BButton/resources/FontAwesome.ttf Build/Products/Debug-iphonesimulator/iFlashcards.app/FontAwesome.ttf
+cCompileStoryboard /Users/ikoller47/Downloads/iFlashcards/iFlashcards/en.lproj/MainStoryboard.storyboard
+cCpResource iFlashcards/5-blue-back-button.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-back-button.png
+cCpResource iFlashcards/5-blue-back-button@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-back-button@2x.png
+cCpResource iFlashcards/5-blue-background.jpg Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-background.jpg
+cCpResource iFlashcards/5-blue-background@2x.jpg Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-background@2x.jpg
+cCpResource iFlashcards/5-blue-menu-bar.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-menu-bar.png
+cCpResource iFlashcards/5-blue-menu-bar@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-menu-bar@2x.png
+cCpResource iFlashcards/5-blue-settings-button.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-settings-button.png
+cCpResource iFlashcards/5-blue-settings-button@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-settings-button@2x.png
+cCpResource iFlashcards/dark.png Build/Products/Debug-iphonesimulator/iFlashcards.app/dark.png
+cCpResource iFlashcards/icon.png Build/Products/Debug-iphonesimulator/iFlashcards.app/icon.png
+cCpResource iFlashcards/icon@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/icon@2x.png
+cTouch /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000521BCCE50000000000000176
+t1377553637
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000522ACC8F00000000000003B5
+t1378536591
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000522ACCD2000000000000019E
+t1378536658
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000522ACCEE0000000000445830
+t1378536686
+s4479024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000522ACCFA000000000088B570
+t1378536698
+s8959344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000522ACD200000000001DB1C90
+t1378536736
+s31136912
+
+N/Users/ikoller47/Downloads/iFlashcards/BButton/BButton.m
+c00000000517578C40000000000002FCA
+t1366653124
+s12234
+
+N/Users/ikoller47/Downloads/iFlashcards/BButton/NSString+FontAwesome.m
+c00000000517578C40000000000000C4D
+t1366653124
+s3149
+
+N/Users/ikoller47/Downloads/iFlashcards/BButton/UIColor+BButton.m
+c00000000517578C40000000000001310
+t1366653124
+s4880
+
+N/Users/ikoller47/Downloads/iFlashcards/BButton/resources/FontAwesome.ttf
+c00000000517578C4000000000000EB88
+t1366653124
+s60296
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch.pch
+t1391190182
+s5345992
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AddCardViewController.o
+t1391190182
+s78440
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AppDelegate.o
+t1391190182
+s66136
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/BButton.o
+t1391190182
+s86768
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Card.o
+t1391190182
+s6960
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Deck.o
+t1391190182
+s7120
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/DetailViewController.o
+t1391190182
+s97952
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/MasterViewController.o
+t1391190182
+s75932
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NSString+FontAwesome.o
+t1391190182
+s32688
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NewDeckViewController.o
+t1391190182
+s90600
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/SettingsViewController.o
+t1391190182
+s52492
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/StudySessionViewController.o
+t1391190182
+s90304
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/UIColor+BButton.o
+t1391190182
+s10016
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/iFlashcards.LinkFileList
+c0000000052EBE0A500000000000007DF
+t1391190181
+s2015
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/main.o
+t1391190182
+s3276
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app
+t1391190183
+s714
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app.dSYM
+t2
+s0
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-back-button.png
+t1391190183
+s2663
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-back-button@2x.png
+t1391190183
+s3409
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-background.jpg
+t1391190183
+s17951
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-background@2x.jpg
+t1391190183
+s197320
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-menu-bar.png
+t1391190183
+s1719
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-menu-bar@2x.png
+t1391190183
+s2617
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-settings-button.png
+t1391190183
+s3108
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-settings-button@2x.png
+t1391190183
+s4460
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/Default-568h@2x.png
+t1391190183
+s18594
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/Default.png
+t1391190183
+s6540
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/Default@2x.png
+t1391190183
+s16107
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/FontAwesome.ttf
+t1391190183
+s60296
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/Info.plist
+t1391190181
+s1052
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/PkgInfo
+t1391190181
+s8
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/dark.png
+t1391190183
+s4527
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/en.lproj/InfoPlist.strings
+t1391190183
+s42
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/en.lproj/MainStoryboard.storyboardc
+t1391190186
+s442
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/iFlashcards
+t1391190183
+s156936
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/icon.png
+t1391190183
+s3665
+
+N/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/icon@2x.png
+t1391190183
+s3740
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/5-blue-back-button.png
+c00000000512EB3530000000000000A67
+t1362015059
+s2663
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/5-blue-back-button@2x.png
+c00000000512CC0F40000000000000D51
+t1361887476
+s3409
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/5-blue-background.jpg
+c00000000512EB38C000000000000461F
+t1362015116
+s17951
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/5-blue-background@2x.jpg
+c00000000512CBF3900000000000302C8
+t1361887033
+s197320
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/5-blue-menu-bar.png
+c00000000512EB37800000000000006B7
+t1362015096
+s1719
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/5-blue-menu-bar@2x.png
+c00000000512CBFCC0000000000000A39
+t1361887180
+s2617
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/5-blue-settings-button.png
+c00000000512EB36A0000000000000C24
+t1362015082
+s3108
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/5-blue-settings-button@2x.png
+c00000000512CC134000000000000116C
+t1361887540
+s4460
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/AddCardViewController.m
+c0000000051A949DF0000000000001001
+t1370048991
+s4097
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/AppDelegate.m
+c00000000519434A8000000000000084E
+t1368667304
+s2126
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Card.m
+c0000000051960BB800000000000000D5
+t1368787896
+s213
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Deck.m
+c0000000051960BB800000000000000D0
+t1368787896
+s208
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Default-568h@2x.png
+c0000000050748B2300000000000048A2
+t1349815075
+s18594
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Default.png
+c0000000050748B23000000000000198C
+t1349815075
+s6540
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Default@2x.png
+c0000000050748B230000000000003EEB
+t1349815075
+s16107
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/DetailViewController.m
+c0000000051AA41110000000000001B1E
+t1370112273
+s6942
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/MasterViewController.m
+c0000000051AA40C40000000000001679
+t1370112196
+s5753
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/NewDeckViewController.m
+c0000000051AA3557000000000000193F
+t1370109271
+s6463
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/SettingsViewController.m
+c000000005194FB990000000000000799
+t1368718233
+s1945
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/StudySessionViewController.m
+c000000005197C68A0000000000001A47
+t1368901258
+s6727
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/dark.png
+c000000005194F6E700000000000011AF
+t1368717031
+s4527
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/en.lproj/InfoPlist.strings
+c0000000051943089000000000000002D
+t1368666249
+s45
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/en.lproj/MainStoryboard.storyboard
+c0000000051AA33CB0000000000006FA6
+t1370108875
+s28582
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/iFlashcards-Info.plist
+c0000000051B54C50000000000000066D
+t1370836048
+s1645
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/iFlashcards-Prefix.pch
+c00000000519430890000000000000145
+t1368666249
+s325
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/icon.png
+c0000000051B54C140000000000000E51
+t1370835988
+s3665
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/icon@2x.png
+c0000000051B54C030000000000000E9C
+t1370835971
+s3740
+
+N/Users/ikoller47/Downloads/iFlashcards/iFlashcards/main.m
+c0000000051943089000000000000014E
+t1368666249
+s334
+
+CBuild AST from /Users/ikoller47/Downloads/iFlashcards/BButton/BButton.m
+r0
+
+CBuild AST from /Users/ikoller47/Downloads/iFlashcards/BButton/NSString+FontAwesome.m
+r0
+
+CBuild AST from /Users/ikoller47/Downloads/iFlashcards/BButton/UIColor+BButton.m
+r0
+
+CBuild AST from /Users/ikoller47/Downloads/iFlashcards/iFlashcards/AddCardViewController.m
+r0
+
+CBuild AST from /Users/ikoller47/Downloads/iFlashcards/iFlashcards/AppDelegate.m
+r0
+
+CBuild AST from /Users/ikoller47/Downloads/iFlashcards/iFlashcards/Card.m
+r0
+
+CBuild AST from /Users/ikoller47/Downloads/iFlashcards/iFlashcards/Deck.m
+r0
+
+CBuild AST from /Users/ikoller47/Downloads/iFlashcards/iFlashcards/DetailViewController.m
+r0
+
+CBuild AST from /Users/ikoller47/Downloads/iFlashcards/iFlashcards/MasterViewController.m
+r0
+
+CBuild AST from /Users/ikoller47/Downloads/iFlashcards/iFlashcards/NewDeckViewController.m
+r0
+
+CBuild AST from /Users/ikoller47/Downloads/iFlashcards/iFlashcards/SettingsViewController.m
+r0
+
+CBuild AST from /Users/ikoller47/Downloads/iFlashcards/iFlashcards/StudySessionViewController.m
+r0
+
+CBuild AST from /Users/ikoller47/Downloads/iFlashcards/iFlashcards/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies85097f25189cb841^7bda9125189cb841^---0#1#1#--18"Check dependencies36"1CE120EE-4612-4CF3-A49D-1202CA0CC972-
+
+CCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AddCardViewController.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/AddCardViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412882982.601002
+e412882982.726510
+r1
+xCompileC
+xBuild/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AddCardViewController.o
+x/Users/ikoller47/Downloads/iFlashcards/iFlashcards/AddCardViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/AddCardViewController.m
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/AddCardViewController.h
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Card.h
+d/Users/ikoller47/Downloads/iFlashcards/BButton/BButton.h
+d/Users/ikoller47/Downloads/iFlashcards/BButton/UIColor+BButton.h
+d/Users/ikoller47/Downloads/iFlashcards/BButton/NSString+FontAwesome.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/ikoller47/Downloads/iFlashcards/iFlashcards/AddCardViewController.m234"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AddCardViewController.o iFlashcards/AddCardViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilereb029a26189cb841^b1fcb926189cb841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/ikoller47/Downloads/iFlashcards/iFlashcards/AddCardViewController.m0000000000000000^3653"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AddCardViewController.o iFlashcards/AddCardViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ikoller47/Downloads/iFlashcards    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-generated-files.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-own-target-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-all-target-headers.hmap -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-project-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources/i386 -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources -F/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator -include /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch -MMD -MT dependencies -MF /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AddCardViewController.d --serialize-diagnostics /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AddCardViewController.dia -c /Users/ikoller47/Downloads/iFlashcards/iFlashcards/AddCardViewController.m -o /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AddCardViewController.o36"F188BEF4-0ED6-4914-B0FA-8CA589506942-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AppDelegate.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412882982.371679
+e412882982.511526
+r1
+xCompileC
+xBuild/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AppDelegate.o
+x/Users/ikoller47/Downloads/iFlashcards/iFlashcards/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/AppDelegate.m
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/ikoller47/Downloads/iFlashcards/iFlashcards/AppDelegate.m214"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AppDelegate.o iFlashcards/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1b4c5f26189cb841^473e8326189cb841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/ikoller47/Downloads/iFlashcards/iFlashcards/AppDelegate.m0000000000000000^3593"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AppDelegate.o iFlashcards/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ikoller47/Downloads/iFlashcards    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-generated-files.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-own-target-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-all-target-headers.hmap -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-project-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources/i386 -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources -F/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator -include /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch -MMD -MT dependencies -MF /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AppDelegate.dia -c /Users/ikoller47/Downloads/iFlashcards/iFlashcards/AppDelegate.m -o /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AppDelegate.o36"400DC732-3DB6-4E51-8701-63AA11B0021B-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/BButton.o /Users/ikoller47/Downloads/iFlashcards/BButton/BButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412882982.502826
+e412882982.754809
+r1
+xCompileC
+xBuild/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/BButton.o
+x/Users/ikoller47/Downloads/iFlashcards/BButton/BButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ikoller47/Downloads/iFlashcards/BButton/BButton.m
+d/Users/ikoller47/Downloads/iFlashcards/BButton/BButton.h
+d/Users/ikoller47/Downloads/iFlashcards/BButton/UIColor+BButton.h
+d/Users/ikoller47/Downloads/iFlashcards/BButton/NSString+FontAwesome.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/ikoller47/Downloads/iFlashcards/BButton/BButton.m202"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/BButton.o BButton/BButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler72dd8026189cb841^e23bc126189cb841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/ikoller47/Downloads/iFlashcards/BButton/BButton.m0000000000000000^3561"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/BButton.o BButton/BButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ikoller47/Downloads/iFlashcards    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-generated-files.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-own-target-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-all-target-headers.hmap -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-project-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources/i386 -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources -F/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator -include /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch -MMD -MT dependencies -MF /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/BButton.d --serialize-diagnostics /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/BButton.dia -c /Users/ikoller47/Downloads/iFlashcards/BButton/BButton.m -o /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/BButton.o36"C8C43B68-A890-449C-9DE7-7B0E66B80FBD-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Card.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/Card.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412882982.749036
+e412882982.784566
+r1
+xCompileC
+xBuild/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Card.o
+x/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Card.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Card.m
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Card.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/ikoller47/Downloads/iFlashcards/iFlashcards/Card.m200"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Card.o iFlashcards/Card.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilereee8bf26189cb841^b6d9c826189cb841^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/ikoller47/Downloads/iFlashcards/iFlashcards/Card.m0000000000000000^3551"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Card.o iFlashcards/Card.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ikoller47/Downloads/iFlashcards    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-generated-files.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-own-target-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-all-target-headers.hmap -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-project-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources/i386 -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources -F/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator -include /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch -MMD -MT dependencies -MF /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Card.d --serialize-diagnostics /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Card.dia -c /Users/ikoller47/Downloads/iFlashcards/iFlashcards/Card.m -o /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Card.o36"B817484D-CB8D-4B05-A07F-27F02818F92F-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Deck.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/Deck.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412882982.726800
+e412882982.776852
+r1
+xCompileC
+xBuild/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Deck.o
+x/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Deck.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Deck.m
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Deck.h
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Card.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/ikoller47/Downloads/iFlashcards/iFlashcards/Deck.m200"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Deck.o iFlashcards/Deck.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf033ba26189cb841^8125c726189cb841^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/ikoller47/Downloads/iFlashcards/iFlashcards/Deck.m0000000000000000^3551"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Deck.o iFlashcards/Deck.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ikoller47/Downloads/iFlashcards    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-generated-files.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-own-target-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-all-target-headers.hmap -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-project-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources/i386 -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources -F/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator -include /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch -MMD -MT dependencies -MF /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Deck.d --serialize-diagnostics /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Deck.dia -c /Users/ikoller47/Downloads/iFlashcards/iFlashcards/Deck.m -o /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Deck.o36"E6860BEE-7B81-4E23-A315-491C9359CAB2-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/DetailViewController.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412882982.373353
+e412882982.551328
+r1
+xCompileC
+xBuild/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/DetailViewController.o
+x/Users/ikoller47/Downloads/iFlashcards/iFlashcards/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/DetailViewController.m
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/DetailViewController.h
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Deck.h
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Card.h
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/AddCardViewController.h
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/NewDeckViewController.h
+d/Users/ikoller47/Downloads/iFlashcards/BButton/BButton.h
+d/Users/ikoller47/Downloads/iFlashcards/BButton/UIColor+BButton.h
+d/Users/ikoller47/Downloads/iFlashcards/BButton/NSString+FontAwesome.h
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/SettingsViewController.h
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/StudySessionViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/ikoller47/Downloads/iFlashcards/iFlashcards/DetailViewController.m232"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/DetailViewController.o iFlashcards/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler24d15f26189cb841^2ae29426189cb841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/ikoller47/Downloads/iFlashcards/iFlashcards/DetailViewController.m0000000000000000^3647"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/DetailViewController.o iFlashcards/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ikoller47/Downloads/iFlashcards    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-generated-files.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-own-target-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-all-target-headers.hmap -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-project-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources/i386 -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources -F/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator -include /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch -MMD -MT dependencies -MF /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/DetailViewController.d --serialize-diagnostics /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/DetailViewController.dia -c /Users/ikoller47/Downloads/iFlashcards/iFlashcards/DetailViewController.m -o /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/DetailViewController.o36"400817E6-E1FE-4C0C-93F9-AF224AA7BEFD-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/MasterViewController.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412882982.372143
+e412882982.540375
+r1
+xCompileC
+xBuild/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/MasterViewController.o
+x/Users/ikoller47/Downloads/iFlashcards/iFlashcards/MasterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/MasterViewController.m
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/MasterViewController.h
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/NewDeckViewController.h
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/AddCardViewController.h
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Card.h
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/SettingsViewController.h
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/DetailViewController.h
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Deck.h
+d/Users/ikoller47/Downloads/iFlashcards/BButton/BButton.h
+d/Users/ikoller47/Downloads/iFlashcards/BButton/UIColor+BButton.h
+d/Users/ikoller47/Downloads/iFlashcards/BButton/NSString+FontAwesome.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/ikoller47/Downloads/iFlashcards/iFlashcards/MasterViewController.m232"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/MasterViewController.o iFlashcards/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdf875f26189cb841^7fda9426189cb841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/ikoller47/Downloads/iFlashcards/iFlashcards/MasterViewController.m0000000000000000^3647"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/MasterViewController.o iFlashcards/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ikoller47/Downloads/iFlashcards    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-generated-files.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-own-target-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-all-target-headers.hmap -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-project-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources/i386 -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources -F/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator -include /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch -MMD -MT dependencies -MF /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/MasterViewController.d --serialize-diagnostics /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/MasterViewController.dia -c /Users/ikoller47/Downloads/iFlashcards/iFlashcards/MasterViewController.m -o /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/MasterViewController.o36"1046E9A6-8BC1-4D76-BFE9-4BEBFB96B795-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NSString+FontAwesome.o /Users/ikoller47/Downloads/iFlashcards/BButton/NSString+FontAwesome.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412882982.511902
+e412882982.599680
+r1
+xCompileC
+xBuild/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NSString+FontAwesome.o
+x/Users/ikoller47/Downloads/iFlashcards/BButton/NSString+FontAwesome.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ikoller47/Downloads/iFlashcards/BButton/NSString+FontAwesome.m
+d/Users/ikoller47/Downloads/iFlashcards/BButton/NSString+FontAwesome.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/ikoller47/Downloads/iFlashcards/BButton/NSString+FontAwesome.m228"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NSString+FontAwesome.o BButton/NSString+FontAwesome.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7b328326189cb841^c9719b26189cb841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/ikoller47/Downloads/iFlashcards/BButton/NSString+FontAwesome.m0000000000000000^3639"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NSString+FontAwesome.o BButton/NSString+FontAwesome.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ikoller47/Downloads/iFlashcards    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-generated-files.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-own-target-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-all-target-headers.hmap -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-project-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources/i386 -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources -F/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator -include /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch -MMD -MT dependencies -MF /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NSString+FontAwesome.d --serialize-diagnostics /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NSString+FontAwesome.dia -c /Users/ikoller47/Downloads/iFlashcards/BButton/NSString+FontAwesome.m -o /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NSString+FontAwesome.o36"A2075327-0DD8-4E19-9D0E-694DB1F7E9A7-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NewDeckViewController.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/NewDeckViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412882982.585406
+e412882982.747720
+r1
+xCompileC
+xBuild/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NewDeckViewController.o
+x/Users/ikoller47/Downloads/iFlashcards/iFlashcards/NewDeckViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/NewDeckViewController.m
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/NewDeckViewController.h
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/AddCardViewController.h
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Card.h
+d/Users/ikoller47/Downloads/iFlashcards/BButton/BButton.h
+d/Users/ikoller47/Downloads/iFlashcards/BButton/UIColor+BButton.h
+d/Users/ikoller47/Downloads/iFlashcards/BButton/NSString+FontAwesome.h
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/SettingsViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/ikoller47/Downloads/iFlashcards/iFlashcards/NewDeckViewController.m234"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NewDeckViewController.o iFlashcards/NewDeckViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler75029626189cb841^a7afbf26189cb841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/ikoller47/Downloads/iFlashcards/iFlashcards/NewDeckViewController.m0000000000000000^3653"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NewDeckViewController.o iFlashcards/NewDeckViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ikoller47/Downloads/iFlashcards    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-generated-files.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-own-target-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-all-target-headers.hmap -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-project-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources/i386 -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources -F/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator -include /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch -MMD -MT dependencies -MF /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NewDeckViewController.d --serialize-diagnostics /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NewDeckViewController.dia -c /Users/ikoller47/Downloads/iFlashcards/iFlashcards/NewDeckViewController.m -o /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NewDeckViewController.o36"3D58C3F1-AD9A-4530-81DD-4C779403B728-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/SettingsViewController.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/SettingsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412882982.551994
+e412882982.650048
+r1
+xCompileC
+xBuild/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/SettingsViewController.o
+x/Users/ikoller47/Downloads/iFlashcards/iFlashcards/SettingsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/SettingsViewController.m
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/SettingsViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/ikoller47/Downloads/iFlashcards/iFlashcards/SettingsViewController.m236"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/SettingsViewController.o iFlashcards/SettingsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf3718d26189cb841^f46ca626189cb841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/ikoller47/Downloads/iFlashcards/iFlashcards/SettingsViewController.m0000000000000000^3659"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/SettingsViewController.o iFlashcards/SettingsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ikoller47/Downloads/iFlashcards    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-generated-files.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-own-target-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-all-target-headers.hmap -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-project-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources/i386 -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources -F/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator -include /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch -MMD -MT dependencies -MF /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/SettingsViewController.d --serialize-diagnostics /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/SettingsViewController.dia -c /Users/ikoller47/Downloads/iFlashcards/iFlashcards/SettingsViewController.m -o /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/SettingsViewController.o36"419D62FF-FBFE-459E-80C3-D37E7AEB91D4-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/StudySessionViewController.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/StudySessionViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412882982.651040
+e412882982.811948
+r1
+xCompileC
+xBuild/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/StudySessionViewController.o
+x/Users/ikoller47/Downloads/iFlashcards/iFlashcards/StudySessionViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/StudySessionViewController.m
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/StudySessionViewController.h
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Deck.h
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/Card.h
+d/Users/ikoller47/Downloads/iFlashcards/BButton/BButton.h
+d/Users/ikoller47/Downloads/iFlashcards/BButton/UIColor+BButton.h
+d/Users/ikoller47/Downloads/iFlashcards/BButton/NSString+FontAwesome.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/ikoller47/Downloads/iFlashcards/iFlashcards/StudySessionViewController.m244"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/StudySessionViewController.o iFlashcards/StudySessionViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8dd1a626189cb841^27dccf26189cb841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/ikoller47/Downloads/iFlashcards/iFlashcards/StudySessionViewController.m0000000000000000^3683"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/StudySessionViewController.o iFlashcards/StudySessionViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ikoller47/Downloads/iFlashcards    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-generated-files.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-own-target-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-all-target-headers.hmap -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-project-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources/i386 -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources -F/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator -include /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch -MMD -MT dependencies -MF /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/StudySessionViewController.d --serialize-diagnostics /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/StudySessionViewController.dia -c /Users/ikoller47/Downloads/iFlashcards/iFlashcards/StudySessionViewController.m -o /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/StudySessionViewController.o36"49091EC7-598F-42B1-859C-6D0951A09E22-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/UIColor+BButton.o /Users/ikoller47/Downloads/iFlashcards/BButton/UIColor+BButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412882982.540666
+e412882982.585120
+r1
+xCompileC
+xBuild/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/UIColor+BButton.o
+x/Users/ikoller47/Downloads/iFlashcards/BButton/UIColor+BButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ikoller47/Downloads/iFlashcards/BButton/UIColor+BButton.m
+d/Users/ikoller47/Downloads/iFlashcards/BButton/UIColor+BButton.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/ikoller47/Downloads/iFlashcards/BButton/UIColor+BButton.m218"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/UIColor+BButton.o BButton/UIColor+BButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7a8c8a26189cb841^2c119826189cb841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/ikoller47/Downloads/iFlashcards/BButton/UIColor+BButton.m0000000000000000^3609"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/UIColor+BButton.o BButton/UIColor+BButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ikoller47/Downloads/iFlashcards    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-generated-files.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-own-target-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-all-target-headers.hmap -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-project-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources/i386 -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources -F/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator -include /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch -MMD -MT dependencies -MF /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/UIColor+BButton.d --serialize-diagnostics /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/UIColor+BButton.dia -c /Users/ikoller47/Downloads/iFlashcards/BButton/UIColor+BButton.m -o /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/UIColor+BButton.o36"3C2C009A-B24D-4347-BB49-A9D9CD062D9C-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/main.o /Users/ikoller47/Downloads/iFlashcards/iFlashcards/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412882982.371294
+e412882982.502516
+r1
+xCompileC
+xBuild/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/main.o
+x/Users/ikoller47/Downloads/iFlashcards/iFlashcards/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/main.m
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/ikoller47/Downloads/iFlashcards/iFlashcards/main.m200"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/main.o iFlashcards/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler27325f26189cb841^9ca58026189cb841^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/ikoller47/Downloads/iFlashcards/iFlashcards/main.m0000000000000000^3551"CompileC Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/main.o iFlashcards/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ikoller47/Downloads/iFlashcards    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-generated-files.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-own-target-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-all-target-headers.hmap -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-project-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources/i386 -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources -F/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator -include /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch -MMD -MT dependencies -MF /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/main.dia -c /Users/ikoller47/Downloads/iFlashcards/iFlashcards/main.m -o /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/main.o36"35875A30-E97F-4ECE-BDEA-34B5ED735DCF-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCompileStoryboard /Users/ikoller47/Downloads/iFlashcards/iFlashcards/en.lproj/MainStoryboard.storyboard
+s412882983.089391
+e412882986.336687
+r1
+xCompileStoryboard
+x/Users/ikoller47/Downloads/iFlashcards/iFlashcards/en.lproj/MainStoryboard.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CompileStoryboard iFlashcards/en.lproj/MainStoryboard.storyboard64"CompileStoryboard iFlashcards/en.lproj/MainStoryboard.storyboard7d071727189cb841^a531562a189cb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/ikoller47/Downloads/iFlashcards/iFlashcards/en.lproj/MainStoryboard.storyboard0000000000000000^875"CompileStoryboard iFlashcards/en.lproj/MainStoryboard.storyboard    cd /Users/ikoller47/Downloads/iFlashcards    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.1 --output-format human-readable-text --compile /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/en.lproj/MainStoryboard.storyboardc /Users/ikoller47/Downloads/iFlashcards/iFlashcards/en.lproj/MainStoryboard.storyboard36"12C2B8F3-2D29-4217-95BF-4346BBD6128F-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCopyStringsFile /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/en.lproj/InfoPlist.strings iFlashcards/en.lproj/InfoPlist.strings
+s412882983.084453
+e412882983.088973
+r1
+xCopyStringsFile
+x/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/en.lproj/InfoPlist.strings
+xiFlashcards/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy iFlashcards/en.lproj/InfoPlist.strings134"CopyStringsFile Build/Products/Debug-iphonesimulator/iFlashcards.app/en.lproj/InfoPlist.strings iFlashcards/en.lproj/InfoPlist.strings9aea1527189cb841^6fd41627189cb841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/ikoller47/Downloads/iFlashcards/iFlashcards/en.lproj/InfoPlist.strings0000000000000000^609"CopyStringsFile Build/Products/Debug-iphonesimulator/iFlashcards.app/en.lproj/InfoPlist.strings iFlashcards/en.lproj/InfoPlist.strings    cd /Users/ikoller47/Downloads/iFlashcards    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/en.lproj -- iFlashcards/en.lproj/InfoPlist.strings36"200FED29-47A1-4161-B1C9-F0C472F14AC1-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCpResource BButton/resources/FontAwesome.ttf Build/Products/Debug-iphonesimulator/iFlashcards.app/FontAwesome.ttf
+s412882983.089287
+e412882983.092492
+r1
+xCpResource
+xBButton/resources/FontAwesome.ttf
+xBuild/Products/Debug-iphonesimulator/iFlashcards.app/FontAwesome.ttf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy Build/Products/Debug-iphonesimulator/iFlashcards.app/FontAwesome.ttf113"CpResource BButton/resources/FontAwesome.ttf Build/Products/Debug-iphonesimulator/iFlashcards.app/FontAwesome.ttf75011727189cb841^12881727189cb841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/FontAwesome.ttf0034a80edeffdf42^632"CpResource BButton/resources/FontAwesome.ttf Build/Products/Debug-iphonesimulator/iFlashcards.app/FontAwesome.ttf    cd /Users/ikoller47/Downloads/iFlashcards    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ikoller47/Downloads/iFlashcards/BButton/resources/FontAwesome.ttf /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app36"4C95ACB5-B8AC-45B8-93F5-801C7ED7CE93-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCpResource iFlashcards/5-blue-back-button.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-back-button.png
+s412882983.089792
+e412882983.091289
+r1
+xCpResource
+xiFlashcards/5-blue-back-button.png
+xBuild/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-back-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-back-button.png121"CpResource iFlashcards/5-blue-back-button.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-back-button.png6f121727189cb841^ba691727189cb841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-back-button.png0034a80edeffdf42^641"CpResource iFlashcards/5-blue-back-button.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-back-button.png    cd /Users/ikoller47/Downloads/iFlashcards    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ikoller47/Downloads/iFlashcards/iFlashcards/5-blue-back-button.png /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app36"BD814A72-FE73-478F-A0CF-1DA2F2F8101A-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCpResource iFlashcards/5-blue-back-button@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-back-button@2x.png
+s412882983.090104
+e412882983.092556
+r1
+xCpResource
+xiFlashcards/5-blue-back-button@2x.png
+xBuild/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-back-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-back-button@2x.png127"CpResource iFlashcards/5-blue-back-button@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-back-button@2x.png92211727189cb841^f88d1727189cb841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-back-button@2x.png0034a80edeffdf42^650"CpResource iFlashcards/5-blue-back-button@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-back-button@2x.png    cd /Users/ikoller47/Downloads/iFlashcards    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ikoller47/Downloads/iFlashcards/iFlashcards/5-blue-back-button@2x.png /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app36"DC911AE3-B131-4066-8CE0-76511BF97219-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCpResource iFlashcards/5-blue-background.jpg Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-background.jpg
+s412882983.092465
+e412882983.094768
+r1
+xCpResource
+xiFlashcards/5-blue-background.jpg
+xBuild/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-background.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-background.jpg119"CpResource iFlashcards/5-blue-background.jpg Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-background.jpgc1c81727189cb841^35451827189cb841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-background.jpg0034a80edeffdf42^638"CpResource iFlashcards/5-blue-background.jpg Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-background.jpg    cd /Users/ikoller47/Downloads/iFlashcards    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ikoller47/Downloads/iFlashcards/iFlashcards/5-blue-background.jpg /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app36"2826FC4B-B1E2-42E5-8DAB-76277A77048F-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCpResource iFlashcards/5-blue-background@2x.jpg Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-background@2x.jpg
+s412882983.093901
+e412882983.095664
+r1
+xCpResource
+xiFlashcards/5-blue-background@2x.jpg
+xBuild/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-background@2x.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-background@2x.jpg125"CpResource iFlashcards/5-blue-background@2x.jpg Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-background@2x.jpgf81c1827189cb841^f17e1827189cb841^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-background@2x.jpg0034a80edeffdf42^647"CpResource iFlashcards/5-blue-background@2x.jpg Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-background@2x.jpg    cd /Users/ikoller47/Downloads/iFlashcards    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ikoller47/Downloads/iFlashcards/iFlashcards/5-blue-background@2x.jpg /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app36"BF5162FF-5CA0-44CB-A779-78BE3111BDC5-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCpResource iFlashcards/5-blue-menu-bar.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-menu-bar.png
+s412882983.095155
+e412882983.097289
+r1
+xCpResource
+xiFlashcards/5-blue-menu-bar.png
+xBuild/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-menu-bar.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-menu-bar.png115"CpResource iFlashcards/5-blue-menu-bar.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-menu-bar.png6e6e1827189cb841^11731927189cb841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-menu-bar.png0034a80edeffdf42^632"CpResource iFlashcards/5-blue-menu-bar.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-menu-bar.png    cd /Users/ikoller47/Downloads/iFlashcards    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ikoller47/Downloads/iFlashcards/iFlashcards/5-blue-menu-bar.png /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app36"80F98D01-87BD-40E3-86B4-33A1E4C2500F-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCpResource iFlashcards/5-blue-menu-bar@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-menu-bar@2x.png
+s412882983.096294
+e412882983.097848
+r1
+xCpResource
+xiFlashcards/5-blue-menu-bar@2x.png
+xBuild/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-menu-bar@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-menu-bar@2x.png121"CpResource iFlashcards/5-blue-menu-bar@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-menu-bar@2x.png1cd21827189cb841^d1791927189cb841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-menu-bar@2x.png0034a80edeffdf42^641"CpResource iFlashcards/5-blue-menu-bar@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-menu-bar@2x.png    cd /Users/ikoller47/Downloads/iFlashcards    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ikoller47/Downloads/iFlashcards/iFlashcards/5-blue-menu-bar@2x.png /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app36"D772CE96-A37A-4BC8-83C4-FE54154F31CC-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCpResource iFlashcards/5-blue-settings-button.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-settings-button.png
+s412882983.097670
+e412882983.100361
+r1
+xCpResource
+xiFlashcards/5-blue-settings-button.png
+xBuild/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-settings-button.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-settings-button.png129"CpResource iFlashcards/5-blue-settings-button.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-settings-button.pngf7591927189cb841^09c21927189cb841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-settings-button.png0034a80edeffdf42^653"CpResource iFlashcards/5-blue-settings-button.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-settings-button.png    cd /Users/ikoller47/Downloads/iFlashcards    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ikoller47/Downloads/iFlashcards/iFlashcards/5-blue-settings-button.png /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app36"B382DE95-920E-4E5B-B644-C8A17C8872FA-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCpResource iFlashcards/5-blue-settings-button@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-settings-button@2x.png
+s412882983.098422
+e412882983.100269
+r1
+xCpResource
+xiFlashcards/5-blue-settings-button@2x.png
+xBuild/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-settings-button@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-settings-button@2x.png135"CpResource iFlashcards/5-blue-settings-button@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-settings-button@2x.png41451927189cb841^7bbb1927189cb841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-settings-button@2x.png0034a80edeffdf42^662"CpResource iFlashcards/5-blue-settings-button@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/5-blue-settings-button@2x.png    cd /Users/ikoller47/Downloads/iFlashcards    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ikoller47/Downloads/iFlashcards/iFlashcards/5-blue-settings-button@2x.png /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app36"612A9812-6B79-4F89-AB12-257256196E0B-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCpResource iFlashcards/Default-568h@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/Default-568h@2x.png
+s412882983.085565
+e412882983.088661
+r1
+xCpResource
+xiFlashcards/Default-568h@2x.png
+xBuild/Products/Debug-iphonesimulator/iFlashcards.app/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy Build/Products/Debug-iphonesimulator/iFlashcards.app/Default-568h@2x.png115"CpResource iFlashcards/Default-568h@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/Default-568h@2x.pngc2f81527189cb841^c2c11627189cb841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/Default-568h@2x.png0034a80edeffdf42^632"CpResource iFlashcards/Default-568h@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/Default-568h@2x.png    cd /Users/ikoller47/Downloads/iFlashcards    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ikoller47/Downloads/iFlashcards/iFlashcards/Default-568h@2x.png /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app36"E0773218-BA38-4D33-875D-3EF4AD3575DB-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCpResource iFlashcards/Default.png Build/Products/Debug-iphonesimulator/iFlashcards.app/Default.png
+s412882983.084295
+e412882983.088571
+r1
+xCpResource
+xiFlashcards/Default.png
+xBuild/Products/Debug-iphonesimulator/iFlashcards.app/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy Build/Products/Debug-iphonesimulator/iFlashcards.app/Default.png99"CpResource iFlashcards/Default.png Build/Products/Debug-iphonesimulator/iFlashcards.app/Default.png84b91527189cb841^da911627189cb841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/Default.png0034a80edeffdf42^608"CpResource iFlashcards/Default.png Build/Products/Debug-iphonesimulator/iFlashcards.app/Default.png    cd /Users/ikoller47/Downloads/iFlashcards    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ikoller47/Downloads/iFlashcards/iFlashcards/Default.png /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app36"A2B48FD7-2872-4A45-BD92-C883332169EA-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCpResource iFlashcards/Default@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/Default@2x.png
+s412882983.084827
+e412882983.089253
+r1
+xCpResource
+xiFlashcards/Default@2x.png
+xBuild/Products/Debug-iphonesimulator/iFlashcards.app/Default@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy Build/Products/Debug-iphonesimulator/iFlashcards.app/Default@2x.png105"CpResource iFlashcards/Default@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/Default@2x.png5a651627189cb841^3cd81627189cb841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/Default@2x.png0034a80edeffdf42^617"CpResource iFlashcards/Default@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/Default@2x.png    cd /Users/ikoller47/Downloads/iFlashcards    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ikoller47/Downloads/iFlashcards/iFlashcards/Default@2x.png /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app36"07859A0C-816D-4A9F-B3E9-087655F6A3CB-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCpResource iFlashcards/dark.png Build/Products/Debug-iphonesimulator/iFlashcards.app/dark.png
+s412882983.098486
+e412882983.100469
+r1
+xCpResource
+xiFlashcards/dark.png
+xBuild/Products/Debug-iphonesimulator/iFlashcards.app/dark.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy Build/Products/Debug-iphonesimulator/iFlashcards.app/dark.png93"CpResource iFlashcards/dark.png Build/Products/Debug-iphonesimulator/iFlashcards.app/dark.pngd4461927189cb841^e6071a27189cb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/dark.png0034a80edeffdf42^599"CpResource iFlashcards/dark.png Build/Products/Debug-iphonesimulator/iFlashcards.app/dark.png    cd /Users/ikoller47/Downloads/iFlashcards    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ikoller47/Downloads/iFlashcards/iFlashcards/dark.png /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app36"2E4D53E0-B25F-468A-90F5-F3D58FBAA148-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCpResource iFlashcards/icon.png Build/Products/Debug-iphonesimulator/iFlashcards.app/icon.png
+s412882983.100506
+e412882983.102816
+r1
+xCpResource
+xiFlashcards/icon.png
+xBuild/Products/Debug-iphonesimulator/iFlashcards.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy Build/Products/Debug-iphonesimulator/iFlashcards.app/icon.png93"CpResource iFlashcards/icon.png Build/Products/Debug-iphonesimulator/iFlashcards.app/icon.png7dce1927189cb841^a77a1a27189cb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/icon.png0034a80edeffdf42^599"CpResource iFlashcards/icon.png Build/Products/Debug-iphonesimulator/iFlashcards.app/icon.png    cd /Users/ikoller47/Downloads/iFlashcards    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ikoller47/Downloads/iFlashcards/iFlashcards/icon.png /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app36"CBB86163-D796-4451-9042-84351F6D725E-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CCpResource iFlashcards/icon@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/icon@2x.png
+s412882983.106026
+e412882983.107608
+r1
+xCpResource
+xiFlashcards/icon@2x.png
+xBuild/Products/Debug-iphonesimulator/iFlashcards.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy Build/Products/Debug-iphonesimulator/iFlashcards.app/icon@2x.png99"CpResource iFlashcards/icon@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/icon@2x.png2e3c1b27189cb841^2f141c27189cb841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/icon@2x.png0034a80edeffdf42^608"CpResource iFlashcards/icon@2x.png Build/Products/Debug-iphonesimulator/iFlashcards.app/icon@2x.png    cd /Users/ikoller47/Downloads/iFlashcards    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ikoller47/Downloads/iFlashcards/iFlashcards/icon@2x.png /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app36"4EC9BEED-2B36-4587-AACC-65063A077527-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CGenerateDSYMFile /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app.dSYM /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/iFlashcards
+s412882983.014186
+e412882983.082466
+r1
+xGenerateDSYMFile
+x/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app.dSYM
+x/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/iFlashcards
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Generate /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app.dSYM139"GenerateDSYMFile Build/Products/Debug-iphonesimulator/iFlashcards.app.dSYM Build/Products/Debug-iphonesimulator/iFlashcards.app/iFlashcards3eb00327189cb841^7f2f1527189cb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app.dSYM0034a80edeffdf42^685"GenerateDSYMFile Build/Products/Debug-iphonesimulator/iFlashcards.app.dSYM Build/Products/Debug-iphonesimulator/iFlashcards.app/iFlashcards    cd /Users/ikoller47/Downloads/iFlashcards    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/iFlashcards -o /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app.dSYM36"E84DDBA9-FD7E-4B5B-8FAD-10AD27903885-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CLd /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/iFlashcards normal i386
+s412882982.813872
+e412882983.013292
+r1
+xLd
+x/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/iFlashcards
+xnormal
+xi386
+d/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/iFlashcards.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/main.o
+d/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AppDelegate.o
+d/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/MasterViewController.o
+d/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/DetailViewController.o
+d/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/BButton.o
+d/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NSString+FontAwesome.o
+d/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/UIColor+BButton.o
+d/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/SettingsViewController.o
+d/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/NewDeckViewController.o
+d/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/AddCardViewController.o
+d/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/StudySessionViewController.o
+d/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Deck.o
+d/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/Card.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Link /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/iFlashcards79"Ld Build/Products/Debug-iphonesimulator/iFlashcards.app/iFlashcards normal i3864773d026189cb841^49680327189cb841^---0#0#1#--1429"Ld Build/Products/Debug-iphonesimulator/iFlashcards.app/iFlashcards normal i386    cd /Users/ikoller47/Downloads/iFlashcards    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator -F/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator -filelist /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/iFlashcards.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -Xlinker -dependency_info -Xlinker /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/Objects-normal/i386/iFlashcards_dependency_info.dat -o /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/iFlashcards36"794430BA-2D7D-4D9B-8BD3-45F020AE8924-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CProcessInfoPlistFile /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/Info.plist /Users/ikoller47/Downloads/iFlashcards/iFlashcards/iFlashcards-Info.plist
+s412882981.572636
+e412882981.577877
+r1
+xProcessInfoPlistFile
+x/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/Info.plist
+x/Users/ikoller47/Downloads/iFlashcards/iFlashcards/iFlashcards-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Process /Users/ikoller47/Downloads/iFlashcards/iFlashcards/iFlashcards-Info.plist119"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/iFlashcards.app/Info.plist iFlashcards/iFlashcards-Info.plist47c69225189cb841^7cef9325189cb841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/ikoller47/Downloads/iFlashcards/iFlashcards/iFlashcards-Info.plist0000000000000000^744"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/iFlashcards.app/Info.plist iFlashcards/iFlashcards-Info.plist    cd /Users/ikoller47/Downloads/iFlashcards    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/ikoller47/Downloads/iFlashcards/iFlashcards/iFlashcards-Info.plist -genpkginfo /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app/Info.plist36"2A7C3169-104B-4A87-BA12-BAA1D9AD4937-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CProcessPCH /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch.pch iFlashcards/iFlashcards-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412882981.579893
+e412882982.370523
+r1
+xProcessPCH
+x/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch.pch
+xiFlashcards/iFlashcards-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ikoller47/Downloads/iFlashcards/iFlashcards/iFlashcards-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile iFlashcards/iFlashcards-Prefix.pch227"ProcessPCH Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch.pch iFlashcards/iFlashcards-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler31979425189cb841^dcda5e26189cb841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/ikoller47/Downloads/iFlashcards/iFlashcards/iFlashcards-Prefix.pch0000000000000000^3466"ProcessPCH Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch.pch iFlashcards/iFlashcards-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ikoller47/Downloads/iFlashcards    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-generated-files.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-own-target-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-all-target-headers.hmap -iquote /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/iFlashcards-project-headers.hmap -I/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources/i386 -I/Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/iFlashcards.build/Debug-iphonesimulator/iFlashcards.build/DerivedSources -F/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch.dia -MMD -MT dependencies -MF /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch.d -c /Users/ikoller47/Downloads/iFlashcards/iFlashcards/iFlashcards-Prefix.pch -o /Users/ikoller47/Downloads/iFlashcards/Build/Intermediates/PrecompiledHeaders/iFlashcards-Prefix-grkxnybzkqioisdiyixhldokndlx/iFlashcards-Prefix.pch.pch36"220A1304-6E78-4ECE-841D-0D6A757EB150-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
+CProcessPCH /Users/ikoller47/Library/Developer/Xcode/DerivedData/iFlashcards-gwqxilcvanronradbcjvrilfynqm/Index/PrecompiledHeaders/iFlashcards-Prefix-ckwdismekiiiiydxbnaymtsstjro_ast/iFlashcards-Prefix.pch.pch iFlashcards/iFlashcards-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app
+s412882986.337922
+e412882986.343921
+r1
+xTouch
+x/Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Touch /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app58"Touch Build/Products/Debug-iphonesimulator/iFlashcards.appe28f562a189cb841^e90c582a189cb841^---0#0#1#--414"Touch Build/Products/Debug-iphonesimulator/iFlashcards.app    cd /Users/ikoller47/Downloads/iFlashcards    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ikoller47/Downloads/iFlashcards/Build/Products/Debug-iphonesimulator/iFlashcards.app36"E84C66B3-9585-43F9-B92E-F3D48873CEDC-
+b0B6A9F8B-2F0E-48DD-BBB0-CB00CBDA1618
+
